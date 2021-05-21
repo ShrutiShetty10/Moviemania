@@ -1,0 +1,60 @@
+li{
+    color: black;
+    display:flex;
+    list-style-type: none;
+    padding: 0 1.5em;
+    
+   
+  }
+  .floatleft {
+    float:left;
+}
+input{
+  margin-left:23px;
+  max-width:500px;
+}
+  img{
+    margin-bottom:2%;
+  }
+  
+  p{
+    font-size: larger;
+    margin: 0;
+    
+  }
+  h1{
+    font-style: normal;
+    color: black;
+   
+  }
+  label{
+    
+    color: black;
+    width:25em;
+    text-align: left;
+  
+  }
+  #para1 {
+    -webkit-text-security: disc;
+    color:black;
+    
+  
+  }
+  th{
+    color:white;
+  }
+  td{
+    color: white;
+  }
+  button{
+    margin: 15px;
+    
+  }
+  .card {
+    max-height: 500px;
+  }
+  
+  .form{
+    background-color:lightskyblue;
+    padding-top: 0%;
+  }
