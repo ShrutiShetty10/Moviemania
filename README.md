@@ -1,4 +1,4 @@
-Moviemania is a movie recommendation system that recommends movies to its users using the cosine similarity algorithm.The project uses React,Django and MongoDB to create a web application that recommends movies.
+Moviemania is a movie recommendation system that recommends movies to its users using the cosine similarity algorithm.The project uses React,Django and MongoDB to create a web application that recommends movies(Under Development).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
